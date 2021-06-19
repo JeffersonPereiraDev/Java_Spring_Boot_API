@@ -1,0 +1,18 @@
+body{
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+#divTabela{
+	height: 300px;
+	overflow: scroll;
+}
+
+#nome, #idade{
+	width: 400px
+}
+
+#id{
+	width: 70px;
+}
